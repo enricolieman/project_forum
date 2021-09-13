@@ -1,0 +1,30 @@
+body {
+  height: 3000px;
+  background-color: #dbd5d5;
+  position: absolute;
+}
+
+.container {
+  width: 750px;
+  height: 250px;
+  background-color: #fff;
+  position: relative;
+  top: 45px;
+  left: 200px;
+  border-radius: 7px;
+  border: 2px solid rgba(49, 47, 47, 0.048);
+  padding: 20px;
+}
+
+h4 {
+  position: relative;
+  bottom: 20px;
+}
+
+.image {
+  width: 125px;
+  height: 125px;
+  position: relative;
+  bottom: 20px;
+  left: 550px;
+}
